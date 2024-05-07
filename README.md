@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timothy.
 - 👀 I’m interested in developing mobile applications using Kotlin, Java, Swift, Objective-C, and React Native.
-- 🌱 I’m currently learning Build.io.
+- 🌱 I’m currently learning Bubble.io.
 - 💞️ If you want to develop native or hybrid mobile applications, please contact me.
 
 <!---
